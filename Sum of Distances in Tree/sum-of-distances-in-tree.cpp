@@ -1,6 +1,6 @@
 /**
 Time = O(n)
-Spacce = O(n)
+Space = O(n)
 **/
 
 class Solution {
